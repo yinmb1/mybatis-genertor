@@ -28,7 +28,7 @@
         <targetXMLPackage>com.yinmb.mybatisgenertor.mysql.mapper</targetXMLPackage>
         <!--  依赖版本  -->
         <mapper.version>3.5.3</mapper.version>
-        <mysql.version>5.1.46</mysql.version>
+        <mysql.version>8.0.28</mysql.version>
 
     </properties>
 
